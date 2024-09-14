@@ -1,3 +1,3 @@
 # CSS-JS-Clock
 
-The clock picks information of the current from the system time using Javascipt  🕐
+The clock picks information about the current time from the system time using Javascript  🕐
